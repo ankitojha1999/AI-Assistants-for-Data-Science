@@ -1,5 +1,5 @@
 # AI-Assistants-for-Data-Science
-My Medium Article - [Link to Medium Article](https://medium.com/@ankit2705ojha/leveraging-ai-assistants-for-data-science-a-crisp-dm-approach-with-claude-84d388c530e0)
+## My Medium Article - [Link to Medium Article](https://medium.com/@ankit2705ojha/leveraging-ai-assistants-for-data-science-a-crisp-dm-approach-with-claude-84d388c530e0)
 
 
 My Claude Chat history - I provided my chat History with claude as PDF in this repo
