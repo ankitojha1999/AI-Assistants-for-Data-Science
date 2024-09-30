@@ -2,7 +2,7 @@
 My Medium Article - [Link to Medium Article](https://medium.com/@ankit2705ojha/leveraging-ai-assistants-for-data-science-a-crisp-dm-approach-with-claude-84d388c530e0)
 
 
-My Claude Chat history - [Link to Chat History](https://claude.ai/chat/22772837-25b4-4ffd-9946-d43fc1838875)
+My Claude Chat history - I provided my chat History with claude as PDF in this repo
 
 # Predicting Student Math Performance: A Machine Learning Approach
 
