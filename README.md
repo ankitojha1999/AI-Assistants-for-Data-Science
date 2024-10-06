@@ -28,7 +28,7 @@ For a comprehensive breakdown of our methodology, findings, and recommendations,
 ## Chat History
 To view the full conversation with Claude that guided this analysis, please refer to:
 
-[Link to Chat History](https://claude.ai/chat/22772837-25b4-4ffd-9946-d43fc1838875)
+My Claude Chat history - I provided my chat History with claude as PDF in this repo
 
 ## Tools Used
 - Python
